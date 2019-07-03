@@ -1,3 +1,4 @@
+
 public class Person1 {
     String name;
 
@@ -5,12 +6,13 @@ public class Person1 {
         this.name = name;
 
     }
+
     public String getName() {
         return name;
     }
 
     @Override
     public String toString() {
-        return name ;
+        return name;
     }
 }
