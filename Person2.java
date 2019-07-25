@@ -1,5 +1,6 @@
 import java.util.List;
 
+
 public class Person2 {
     String name;
     List<BankAccount2> bankAccounts;
